@@ -6,8 +6,20 @@
     <description>Recent content in Posts on My Memo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 14 Mar 2016 00:17:23 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 14 Mar 2016 01:03:12 +0900</lastBuildDate>
     <atom:link href="http://ged1959.github.io/memo/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>pythonについて</title>
+      <link>http://ged1959.github.io/memo/post/python1st/</link>
+      <pubDate>Mon, 14 Mar 2016 01:03:12 +0900</pubDate>
+      
+      <guid>http://ged1959.github.io/memo/post/python1st/</guid>
+      <description>&lt;p&gt;pythonの勉強を始めた、つもり。また、ずぐ挫折するかもしれないけど。&lt;/p&gt;
+
+&lt;p&gt;一応、githubでメモ（&lt;a href=&#34;https://github.com/ged1959/python&#34;&gt;ged1959/python&lt;/a&gt;）。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>新しいメモ用のブログ</title>

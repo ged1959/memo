@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>プログラム on My Memo</title>
+    <link>http://ged1959.github.io/memo/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/</link>
+    <description>Recent content in プログラム on My Memo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 14 Mar 2016 01:03:12 +0900</lastBuildDate>
+    <atom:link href="http://ged1959.github.io/memo/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>pythonについて</title>
+      <link>http://ged1959.github.io/memo/post/python1st/</link>
+      <pubDate>Mon, 14 Mar 2016 01:03:12 +0900</pubDate>
+      
+      <guid>http://ged1959.github.io/memo/post/python1st/</guid>
+      <description>&lt;p&gt;pythonの勉強を始めた、つもり。また、ずぐ挫折するかもしれないけど。&lt;/p&gt;
+
+&lt;p&gt;一応、githubでメモ（&lt;a href=&#34;https://github.com/ged1959/python&#34;&gt;ged1959/python&lt;/a&gt;）。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
