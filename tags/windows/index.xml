@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Memo</title>
-    <link>http://ged1959.github.io/memo/</link>
-    <description>Recent content on My Memo</description>
+    <title>Windows on My Memo</title>
+    <link>http://ged1959.github.io/memo/tags/windows/</link>
+    <description>Recent content in Windows on My Memo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 31 Mar 2016 13:09:29 +0900</lastBuildDate>
-    <atom:link href="http://ged1959.github.io/memo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ged1959.github.io/memo/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>またMicrosoftに驚かされた</title>

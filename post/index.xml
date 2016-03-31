@@ -6,46 +6,43 @@
     <description>Recent content in Posts on My Memo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 14 Mar 2016 01:03:12 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 31 Mar 2016 13:09:29 +0900</lastBuildDate>
     <atom:link href="http://ged1959.github.io/memo/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>pythonについて</title>
-      <link>http://ged1959.github.io/memo/post/python1st/</link>
-      <pubDate>Mon, 14 Mar 2016 01:03:12 +0900</pubDate>
+      <title>またMicrosoftに驚かされた</title>
+      <link>http://ged1959.github.io/memo/post/windows_bash/</link>
+      <pubDate>Thu, 31 Mar 2016 13:09:29 +0900</pubDate>
       
-      <guid>http://ged1959.github.io/memo/post/python1st/</guid>
-      <description>&lt;p&gt;pythonの勉強を始めた、つもり。また、ずぐ挫折するかもしれないけど。&lt;/p&gt;
-
-&lt;p&gt;一応、githubでメモ（&lt;a href=&#34;https://github.com/ged1959/python&#34;&gt;ged1959/python&lt;/a&gt;）。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>新しいメモ用のブログ</title>
-      <link>http://ged1959.github.io/memo/post/new/</link>
-      <pubDate>Mon, 14 Mar 2016 00:17:23 +0900</pubDate>
-      
-      <guid>http://ged1959.github.io/memo/post/new/</guid>
+      <guid>http://ged1959.github.io/memo/post/windows_bash/</guid>
       <description>
 
-&lt;p&gt;このブログについて。ブログというより、メモです。今もやっているwordpressよりも簡単だし、コンテンツの管理も便利なので、とりあえず、形だけ作ってみました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/03/o92a2876.jpg?w=1296&amp;amp;h=864&#34; alt=&#34;Window&#39;s bash&#34; /&gt;
+本当にMicrosoftには驚かされる。Windows 10にbashだと。すごい。
+linux系のことが、Windowsで当たり前のようにできるようになる。上の写真（TechCrunchさんからお借りしてます）を見ると、オー！！。&lt;/p&gt;
 
-&lt;h2 id=&#34;ということでメモ:b7a73ff21accb7e89945477d6c352c48&#34;&gt;ということでメモ&lt;/h2&gt;
+&lt;p&gt;Macを超えるのではないか、と。コーディングする人もこっちに来るのではないか、と。OSへのこだわりを捨てた（のかどうか）Microsoftは、ただただ、ひたすら強い。そう思う。&lt;/p&gt;
 
-&lt;h3 id=&#34;gym:b7a73ff21accb7e89945477d6c352c48&#34;&gt;Gym&lt;/h3&gt;
+&lt;p&gt;やっと、Cmder（下の写真。&lt;a href=&#34;http://cmder.net/&#34;&gt;Cmderのサイト&lt;/a&gt;から）を発見して喜んでいたところだけど、どんどん先に行く。
+&lt;img src=&#34;http://cmder.net/img/main.jpg&#34; alt=&#34;Cmder画面&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;今日は、GoldGymを見学。原宿東京店「&lt;a href=&#34;http://www.goldsgym.jp/shop/shop.html?id=016&#34;&gt;フィットネスクラブ　ゴールドジム｜原宿東京店施設内容&lt;/a&gt;」の地下のウエイトトレーニングエリア、すごかった。やっぱ、筋力だよなぁ、と。てなことを書いていたら、TBSテレビでヨットマンの白石康次郎さんの旅が紹介されていた。筋トレ場面も。&lt;/p&gt;
+&lt;h2 id=&#34;links-microsoft関連:068fd2d95d4026fa60460edb1f970da6&#34;&gt;Links, Microsoft関連&lt;/h2&gt;
 
-&lt;p&gt;GoldGymは、原宿～表参道～渋谷と、副都心線に沿って店舗があり、出口のすぐそば。使い分けると良さそう。ウエイトトレーニングの充実度は、さすが。それから、原宿、渋谷の店舗は、窓からの景観が最高。渋谷なんて、11Fから宮下公園を眺めながら、ランができる。スタジオプログラムも充実してる。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://techcrunch.com/2016/03/30/be-very-afraid-hell-has-frozen-over-bash-is-coming-to-windows-10/&#34;&gt;Microsoft is bringing the Bash shell to Windows 10 | TechCrunch&lt;/a&gt; ==&amp;gt; トップ写真をお借りしてます。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jp.techcrunch.com/2016/03/31/20160330be-very-afraid-hell-has-frozen-over-bash-is-coming-to-windows-10/&#34;&gt;Build 2016で驚きの発表―Microsoftはこの夏Windows 10でBashシェルをサポート | TechCrunch Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://channel9.msdn.com/?wt.mc_id=build_hp&#34;&gt;Channel 9: Videos about the people building Microsoft Products &amp;amp; Services&lt;/a&gt; ==&amp;gt; 会場のライブもあるよ。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rat.cis.k.hosei.ac.jp/article/linux/bash_intro.html&#34;&gt;bash 入門&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://japanese.engadget.com/2016/03/30/windows-10-bash-ubuntu-linux/&#34;&gt;Windows 10がBashに公式ネイティブ対応。マイクロソフトとカノニカルが協力、Ubuntu Linuxのコマンドラインツールがそのまま動作 - Engadget Japanese&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gigazine.net/news/20160331-microsoft-build-10-important-announcements/&#34;&gt;BashシェルをWindowsに搭載するWindows 10大型アップデートなど、Microsoft Build 2016で発表された重要な10項目まとめ - GIGAZINE&lt;/a&gt; ==&amp;gt; bash以外の新ネタも紹介している。大変参考になります。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sqlazure.jp/r/tips/794/&#34;&gt;Windows で Ubuntu バイナリ（bash）が動作することの概略 - 蒼の王座・裏口&lt;/a&gt; ==&amp;gt; bashについて詳しい。&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;ただなぁ……、BDCも、再度チャレンジしたいし…。悩ましい。最近やってない、ターンの映像、BDCにあった。&lt;/p&gt;
+&lt;h2 id=&#34;links-cmder関連:068fd2d95d4026fa60460edb1f970da6&#34;&gt;Links, Cmder関連&lt;/h2&gt;
 
-&lt;p&gt;その後、tip。筋トレフル＋ラン。最近のスタジオプログラム、悩む。&lt;/p&gt;
-
-&lt;h3 id=&#34;nhk特集:b7a73ff21accb7e89945477d6c352c48&#34;&gt;NHK特集&lt;/h3&gt;
-
-&lt;p&gt;NHK特集、福島原発。東電の人、必死で頑張った。そう思った。先日の特集、おサルさんとかの話は、？？？だったけど、今回は、よくわかった。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://lival.main.jp/netbookdev/cmder/&#34;&gt;コマンドプロンプトを使いやすくするcmder&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
