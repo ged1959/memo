@@ -6,8 +6,51 @@
     <description>Recent content in Posts on My Memo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 31 Mar 2016 21:32:09 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 31 Mar 2016 22:15:17 +0900</lastBuildDate>
     <atom:link href="http://ged1959.github.io/memo/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DISQUSをセットした</title>
+      <link>http://ged1959.github.io/memo/post/disqus_set/</link>
+      <pubDate>Thu, 31 Mar 2016 22:15:17 +0900</pubDate>
+      
+      <guid>http://ged1959.github.io/memo/post/disqus_set/</guid>
+      <description>
+
+&lt;p&gt;コメントを残す方法。DISQUSを使う。ので、やった方法。&lt;/p&gt;
+
+&lt;h2 id=&#34;hugo側:87cae55aa542122de31f0b4ea09da5ab&#34;&gt;hugo側&lt;/h2&gt;
+
+&lt;p&gt;angels-ladderなら簡単。&lt;code&gt;config.toml&lt;/code&gt;を以下のように書く。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;baseurl = &amp;quot;http://ged1959.github.io/memo/&amp;quot;
+languageCode = &amp;quot;ja-jp&amp;quot;
+title = &amp;quot;My Memo&amp;quot;
+canonifyurls = true
+disqusShortname = &amp;quot;mymemo1959&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;テーマの作者さんのgithubサイト「&lt;a href=&#34;https://github.com/tanksuzuki/angels-ladder&#34;&gt;tanksuzuki/angels-ladder: Angel&amp;rsquo;s Ladder is a simple blog theme for Hugo.&lt;/a&gt;」にある通り。&lt;/p&gt;
+
+&lt;h2 id=&#34;disqusの設定:87cae55aa542122de31f0b4ea09da5ab&#34;&gt;DISQUSの設定&lt;/h2&gt;
+
+&lt;p&gt;これは、ちょっとだけ面倒。参考にしたサイトは以下。一応、流れとしては、新規に登録。それとは別にサイトを登録。Shortnameは、入力したサイトの名前から推測して自動作成してくれるけど、先に使っている人が多いみたいで、「NEXT」ボタンを押すと「もう使われてる」と怒られるので、自分で数字とかを足して、ユニークなものにする、と。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://learn.uberflip.com/h/i/135492527-how-to-get-a-disqus-shortname-for-your-hub-youll-need-it&#34;&gt;How to Get a Disqus Shortname for your Hub&amp;hellip; You&amp;rsquo;ll Need It!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.disqus.com/customer/portal/articles/466208&#34;&gt;What&amp;rsquo;s a shortname? | DISQUS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://modx.jp.net/chunks/disqus1.html&#34;&gt;Disqusの使い方(1)-コメント欄の設置 | MODX for Professionals&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;angels-ladderについて:87cae55aa542122de31f0b4ea09da5ab&#34;&gt;angels-ladderについて&lt;/h2&gt;
+
+&lt;p&gt;今頃……、だけど、以下に。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://tanksuzuki.com/post/hugo-theme-angels-ladder/&#34;&gt;シンプルなHugoのテーマ「Angel&amp;rsquo;s Ladder」を作りました | TANKSUZUKI.COM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>hogeテスト用</title>
