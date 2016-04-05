@@ -6,8 +6,57 @@
     <description>Recent content in Posts on My Memo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 05 Apr 2016 16:53:53 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 05 Apr 2016 17:32:17 +0900</lastBuildDate>
     <atom:link href="http://ged1959.github.io/memo/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>衛星非常用位置指示無線標識（衛星EPIRB）</title>
+      <link>http://ged1959.github.io/memo/post/epirb/</link>
+      <pubDate>Tue, 05 Apr 2016 17:32:17 +0900</pubDate>
+      
+      <guid>http://ged1959.github.io/memo/post/epirb/</guid>
+      <description>
+
+&lt;p&gt;海で遭難したときに、救助を求める情報発信の手段に、EPIRBがあるらしい。これ、地上版はできないか。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://nippon.zaidan.info/seikabutsu/1999/00463/images/007-1.jpg&#34; alt=&#34;epirb&#34; style=&#34;width80%;margin:0 auto;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;簡単な操作で、危険情報を発信する。誤発信を防ぐ手段、というか、切り替え策も必要だろうけど。&lt;/p&gt;
+
+&lt;h2 id=&#34;リンク:aa4f7a7fb636df08552f337132a5b6bf&#34;&gt;リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ja.wikipedia.org/wiki/%E9%9D%9E%E5%B8%B8%E7%94%A8%E4%BD%8D%E7%BD%AE%E6%8C%87%E7%A4%BA%E7%84%A1%E7%B7%9A%E6%A8%99%E8%AD%98%E8%A3%85%E7%BD%AE&#34;&gt;非常用位置指示無線標識装置 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.kaiho.mlit.go.jp/04kanku/yokkaichi/e-0/e-5/epirb.html&#34;&gt;EPIRB(イパーブ)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dsk.or.jp/dskwiki/index.php?%E8%A1%9B%E6%98%9F%E9%9D%9E%E5%B8%B8%E7%94%A8%E4%BD%8D%E7%BD%AE%E6%8C%87%E7%A4%BA%E7%84%A1%E7%B7%9A%E6%A8%99%E8%AD%98%EF%BC%88%E8%A1%9B%E6%98%9FEPIRB%EF%BC%89&#34;&gt;衛星非常用位置指示無線標識（衛星EPIRB） - dskwiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.furuno.co.jp/news/notice/20120529_002.html&#34;&gt;旧型衛星イパーブ（EPIRB）、新型機種への交換のお願い｜重要なお知らせ｜ニュース｜古野電気（フルノ） FURUNO&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>顔体操&#43;指</title>
+      <link>http://ged1959.github.io/memo/post/face_train/</link>
+      <pubDate>Tue, 05 Apr 2016 17:28:11 +0900</pubDate>
+      
+      <guid>http://ged1959.github.io/memo/post/face_train/</guid>
+      <description>&lt;p&gt;顔体操と指体操を同時にやるといいらしい。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://ure.pia.co.jp/mwimgs/7/1/450/img_71cdc943028880a1057ad1e35190be6d1873228.jpg&#34; style=&#34;width:50%;margin:0 auto;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>「新宿/絶対に元が取れる食べ放題」だと</title>
+      <link>http://ged1959.github.io/memo/post/uchikuru0403/</link>
+      <pubDate>Tue, 05 Apr 2016 17:16:15 +0900</pubDate>
+      
+      <guid>http://ged1959.github.io/memo/post/uchikuru0403/</guid>
+      <description>&lt;p&gt;フジ「ウチくる！？」４月３日。例によって、食べ放題。本当においしいのかなぁ。&lt;/p&gt;
+
+&lt;p&gt;いざ、というときのために、リンクだけ。 ==&amp;gt; &lt;a href=&#34;http://www.fujitv.co.jp/uchikuru/_basic/backnumber/index-95.html&#34;&gt;ウチくる！？ 2016年4月3日(日)放送 森公美子：新宿/絶対に元が取れる食べ放題 - フジテレビ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>マンガ大賞2016</title>
@@ -15,7 +64,7 @@
       <pubDate>Tue, 05 Apr 2016 16:53:53 +0900</pubDate>
       
       <guid>http://ged1959.github.io/memo/post/manga_taishou2016/</guid>
-      <description>&lt;p&gt;テレビで紹介していた「マンガ大賞2016」。面白そうだ。&lt;/p&gt;
+      <description>&lt;p&gt;テレビで紹介していた&lt;a href=&#34;http://www.mangataisho.com/&#34;&gt;「マンガ大賞2016」&lt;/a&gt;。面白そうだ。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/BmZOGc1nnEZNFLNimmvml-0zptaTt01NSWGNflepnG0zuOlx6l-5sybsqGebJK0pj-zrbKNYWv6WMo7CXKnJ61CSSoWxYQg-eAPkHuFjm6mNxZsEo9PKy0f59O9g8AtfwEiJXyo4E5uQf4RWMBtBJHV8WfIuNQL49BgUavxkhZH4X04Xd785YIPPpElUXo_-tmkq4sMdT5zGMzP2jmoI3f3Iaxw8zUbmT0ReJlYTh_Nmsu27Dxr-IsKo6PdaJWzriihoIPdTxnf2ug4e02JP0K7RBieYMt8W75eEQzBT5a5azk6VFB6Amd4e1J_9WCcRR6Ycqp0Wweo6M5rSDI8SUBbbOHW2cRAalj4KyF7C_AEVsvYLeUqBul6m3TF8XXv_ticYPnXI3aeKBiq4HK51L3zGkgsYyq3EP7uAtZhvGdAIGnRcadlY6Ogs_HtEaR2-rKqSFd_oZQiBLbJFuYHKRE8PTD_F-OCTZ3Imt9qBJqHLVpYke35cjSHDRtYDn9Mhjhc6p857TTmsJqzXNy9YXhuDCiQCD4s0WNrOxl6LlqpwC_sKaeYwzthMOU1aqHV1VSmS=w1786-h1112-no&#34; alt=&#34;マンガ大賞2016&#34; style=&#34;width:80%;margin:0 auto;&#34;&gt;&lt;/p&gt;
 
@@ -96,8 +145,9 @@ disqusShortname = &amp;quot;mymemo1959&amp;quot;
 
 &lt;p&gt;Macを超えるのではないか、と。コーディングする人もこっちに来るのではないか、と。OSへのこだわりを捨てた（のかどうか）Microsoftは、ただただ、ひたすら強い。そう思う。&lt;/p&gt;
 
-&lt;p&gt;やっと、Cmder（下の写真。&lt;a href=&#34;http://cmder.net/&#34;&gt;Cmderのサイト&lt;/a&gt;から）を発見して喜んでいたところだけど、どんどん先に行く。
-&lt;img alt=&#34;Cmder画面&#34; src=&#34;http://cmder.net/img/main.jpg&#34; style=&#34;width:100%;margin:0 auto;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;やっと、Cmder（下の写真。&lt;a href=&#34;http://cmder.net/&#34;&gt;Cmderのサイト&lt;/a&gt;から）を発見して喜んでいたところだけど、どんどん先に行く。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&#34;Cmder画面&#34; src=&#34;http://cmder.net/img/main.jpg&#34; style=&#34;width:100%;margin:0 auto;&#34;&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;links-microsoft関連:068fd2d95d4026fa60460edb1f970da6&#34;&gt;Links, Microsoft関連&lt;/h2&gt;
 

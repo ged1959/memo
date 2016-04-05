@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Idea on My Memo</title>
+    <link>http://ged1959.github.io/memo/tags/idea/</link>
+    <description>Recent content in Idea on My Memo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 05 Apr 2016 17:32:17 +0900</lastBuildDate>
+    <atom:link href="http://ged1959.github.io/memo/tags/idea/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>衛星非常用位置指示無線標識（衛星EPIRB）</title>
+      <link>http://ged1959.github.io/memo/post/epirb/</link>
+      <pubDate>Tue, 05 Apr 2016 17:32:17 +0900</pubDate>
+      
+      <guid>http://ged1959.github.io/memo/post/epirb/</guid>
+      <description>
+
+&lt;p&gt;海で遭難したときに、救助を求める情報発信の手段に、EPIRBがあるらしい。これ、地上版はできないか。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://nippon.zaidan.info/seikabutsu/1999/00463/images/007-1.jpg&#34; alt=&#34;epirb&#34; style=&#34;width80%;margin:0 auto;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;簡単な操作で、危険情報を発信する。誤発信を防ぐ手段、というか、切り替え策も必要だろうけど。&lt;/p&gt;
+
+&lt;h2 id=&#34;リンク:aa4f7a7fb636df08552f337132a5b6bf&#34;&gt;リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ja.wikipedia.org/wiki/%E9%9D%9E%E5%B8%B8%E7%94%A8%E4%BD%8D%E7%BD%AE%E6%8C%87%E7%A4%BA%E7%84%A1%E7%B7%9A%E6%A8%99%E8%AD%98%E8%A3%85%E7%BD%AE&#34;&gt;非常用位置指示無線標識装置 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.kaiho.mlit.go.jp/04kanku/yokkaichi/e-0/e-5/epirb.html&#34;&gt;EPIRB(イパーブ)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dsk.or.jp/dskwiki/index.php?%E8%A1%9B%E6%98%9F%E9%9D%9E%E5%B8%B8%E7%94%A8%E4%BD%8D%E7%BD%AE%E6%8C%87%E7%A4%BA%E7%84%A1%E7%B7%9A%E6%A8%99%E8%AD%98%EF%BC%88%E8%A1%9B%E6%98%9FEPIRB%EF%BC%89&#34;&gt;衛星非常用位置指示無線標識（衛星EPIRB） - dskwiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.furuno.co.jp/news/notice/20120529_002.html&#34;&gt;旧型衛星イパーブ（EPIRB）、新型機種への交換のお願い｜重要なお知らせ｜ニュース｜古野電気（フルノ） FURUNO&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
